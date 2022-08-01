@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 Im a Marine Veteran with 4 years experience providing IT customer service in the private sector, and over 700 hours coding attending an Advanced Software Engineering Immersive at Operation Level-Up where I became proficient in Full Stack Development to include the skills listed below.
 
-* 🌍  I'm based in NC
+* 🌍  I'm located in NC
 * ✉️  You can contact me at [aaron.m.warren00@gmail.com](mailto:aaron.m.warren00@gmail.com)
 
 ### Skills
