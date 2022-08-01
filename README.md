@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-Im a Marine Veteran with 4 years experience providing IT customer service in the private sector, and over 700 hours coding attending an Advanced Software Engineering Immersive at Operation Level-Up where I became proficient in Full Stack Development to include JavaScript (ES5 and ES6), HTML5, CSS3, React, Material UI, Bootstrap, Node.js, Express.js, and PostgreSQL.
+Im a Marine Veteran with 4 years experience providing IT customer service in the private sector, and over 700 hours coding attending an Advanced Software Engineering Immersive at Operation Level-Up where I became proficient in Full Stack Development to include the skills listed below.
 
 * 🌍  I'm based in NC
 * ✉️  You can contact me at [aaron.m.warren00@gmail.com](mailto:aaron.m.warren00@gmail.com)
