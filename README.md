@@ -1,8 +1,4 @@
-Aaron Warren (A-a-ron)
-====================================================================================================================================
-
-Full Stack Software Engineer
-----------------------------
+## Aaron Warren | Full Stack Software Engineer
 
 Hi! My name is Aaron, I'm a Full Stack Software Engineer with a passion for creation and rennovation. Im also a Marine Corps Veteran with 4 years experience providing IT customer service in the private sector, and over 700 hours coding attending an Advanced Software Engineering Immersive at Operation Level-Up where I became proficient in Full Stack Development specializing in the PERN stack in an agile work environment.
 
