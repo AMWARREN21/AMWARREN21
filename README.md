@@ -2,7 +2,7 @@
 
 Hi! My name is Aaron, I'm a Full Stack Software Engineer with a passion for creation and rennovation. Im also a Marine Corps Veteran with 4 years experience providing IT customer service in the private sector, and over 700 hours coding attending an Advanced Software Engineering Immersive at Operation Level-Up where I became proficient in Full Stack Development specializing in the PERN stack in an agile work environment.
 
-* 🌍  I'm located in NC
+* 🌍  I'm located in CA
 * ✉️  You can contact me at [aaron.m.warren00@gmail.com](mailto:aaron.m.warren00@gmail.com)
 
 ### Technical Skills
